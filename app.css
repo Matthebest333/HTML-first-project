@@ -1,5 +1,19 @@
 header, footer{
-    background-color: rgb(80, 177, 201);
-    padding: 4px;
-    color: rgb(180, 0, 0);
+    background-color: rgb(18, 52, 247);
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h2{
+    padding-left: 50px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.big{
+    font-size: 20px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 0, 170);
 }
